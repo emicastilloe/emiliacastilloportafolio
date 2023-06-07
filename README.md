@@ -1,4 +1,4 @@
-# DiseñosEmiliacastillo.cl
+# DiseñosEmiliaCastillo.cl
 ## Respuesta a las preguntas
 
 ### 1) ¿Para que es esta propuesta?
