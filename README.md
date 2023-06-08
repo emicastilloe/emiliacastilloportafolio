@@ -1,7 +1,7 @@
 # DiseñosEmiliaCastillo.cl
 ## Respuesta a las preguntas
 
-### 1) ¿Para que es esta propuesta?
+### 1) ¿Para qué es esta propuesta?
 Compartir mis trabajos de diseño para inspirar a otras personas
 
 ### 2) ¿Para quien es esta propuesta? 
@@ -18,6 +18,10 @@ Ella es una mujer de 40 años de 1.60 m tiene pelo marron y usa lentes, generale
 
 
 ##### Rosario:
+
+![image](https://github.com/emicastilloe/final/assets/127958209/5b73c072-5389-4a0b-9da9-621d13b707d2)
+
+
 Rosario es una periodista de 30 años, mide 1.73 tiene pelo negro y acostumbra usar ropa de tiendas de retail como hym, zara y shein. a Rosario  le gusta mucho la investigación y aprender cosas nuevas es por eso que trabaja  como periodista en un diario chileno escribiendo articulos semanalmente. esta semana le encargaron escribir un articulo para ayuadr a los diseñadores a encontrar paginas que les sirvan como inspiracion en sus futuros diseños. es por esto que rosario está investigando y buscando paginas para recomendar a los demas diseñadores en su articulo 
 
 
@@ -31,6 +35,18 @@ Rosario es una periodista de 30 años, mide 1.73 tiene pelo negro y acostumbra u
 
 
 Raúl es un estudiante de 21 años que esta en su tercer año de diseño en la universidad catolica. es un joven de 1,69 de pelo marron oscuro y lentes, le gustan mucho ir al parque los reyes y por eso mismo acostumbra usar ropa de segunda mano. a raul le gusta mucho el diseño y se maneja muy bien con todos los programas como ilustrator photoshop after efects etc.. pero su problema es que le cuesta mucho pensar en ideas nuevas para integrar a sus encargos de la u y eso lo frustra ya que siente que le falta creatividad, por eso mismo la mayoria de las veces le gusta trabajar en grupo, asi no todo  depende de él y otras personas pueden pensar en las ideas mientras el se encarga de llevarlas a cabo. Este año se propuso mejorar en este tema ya que quiere destacarse para asi ser el ayudante de taller el proximo año, por esto mismo esta en busca de paginas que le den ideas e inspiracion para sus trabajos de la u para asi desarrollar su creatividad y en un futuro no necesitar a nadie para proponer ideas.
+
+
+________________________________________________________________________________
+
+### 3) ¿Qué existe que similar a la propuesta?
+
+![image](https://github.com/emicastilloe/final/assets/127958209/15a5e036-70ff-4205-b249-68f5f5846886).      
+
+![image](https://github.com/emicastilloe/final/assets/127958209/dab5ada7-4cec-44e2-8520-de1041707ebc)
+
+
+
 
 
 
