@@ -42,9 +42,25 @@ ________________________________________________________________________________
 
 ### 3) ¿Qué existe que similar a la propuesta?
 
-![image](https://github.com/emicastilloe/final/assets/127958209/15a5e036-70ff-4205-b249-68f5f5846886).      
+![image](https://github.com/emicastilloe/final/assets/127958209/9204f9ca-cdd5-4565-aaa1-10859ed5222b)
 
-![image](https://github.com/emicastilloe/final/assets/127958209/dab5ada7-4cec-44e2-8520-de1041707ebc)
+![image](https://github.com/emicastilloe/final/assets/127958209/ad4a6284-8cb8-400f-b13d-bcba2cf0a2f4)
+
+![image](https://github.com/emicastilloe/final/assets/127958209/fe03be5c-5b65-41a4-bdae-c1bfd7c16318)
+
+![image](https://github.com/emicastilloe/final/assets/127958209/2273c5e7-e625-4f19-a833-5a58603b6d0a)
+
+![image](https://github.com/emicastilloe/final/assets/127958209/24a19698-40e2-4c9a-a0e2-ba4c9d7336b7)
+
+![image](https://github.com/emicastilloe/final/assets/127958209/f41ff6dc-3e6c-4bde-8159-703a53ae4c02)
+
+
+
+### 3) ¿Qué existe que puede inspirar la propuesta?
+
+![image](https://github.com/emicastilloe/final/assets/127958209/d098720d-0d93-4ea3-9b04-e19c03e32f8a)
+
+
 
 
 
