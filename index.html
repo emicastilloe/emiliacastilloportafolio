@@ -27,6 +27,28 @@
         <link href="style.css" rel="stylesheet" />
         
         <style>
+            
+           
+           
+            section#services h2{
+                color:#3E3940;
+            }
+            .btn.btn-primary.btn-xl{
+                transform: scale(0.9);
+            }
+            .btn-custom{
+                background-color:#8C7F3E;
+                transition: background-color 0.3s ease;
+                border:1px solid black; 
+                    }
+            .btn-custom:hover{
+                background-color:#8C7F3E; 
+                border-color:black;
+            }
+        
+            .custom-bg-color{
+                background-color: #D3D9CB
+            }
         :root {
     --bs-body-font-family: "Abril Fatface", cursive;
     --bs-body-font-wight: 300;
@@ -38,8 +60,9 @@
             }
      h1{
      font-family: "Abril Fatface", cursive;
-     color: #071C59
+     color: #3E3940
         }
+    
     </style>
    
     </head>
@@ -60,13 +83,13 @@
         <header class="masthead d-flex align-items-center">
             <div class="container px-4 px-lg-5 text-center">
                 <h1 class="mb-1">Portafolio</h1>
-               <h3 class="mb-5"><em>Diseños por Emilia Castillo</em></h3>
-                <a class="btn btn-primary btn-xl" href="#about">Saber más</a>
+               <h3 class="mb-5"><em>Fotografías por Emilia Castillo</em></h3>
+                <a class="btn btn-primary btn-xl btn-custom" href="#services">Saber más</a>
             </div>
         </header>
        
         <!-- Services-->
-        <section class="content-section bg-primary text-white text-center" id="services">
+        <section class="content-section custom-bg-color text-white text-center" id="services">
             <div class="container px-4 px-lg-5">
                 <div class="content-section-heading">
                     <h3 class="text-secondary mb-0">Services</h3>
